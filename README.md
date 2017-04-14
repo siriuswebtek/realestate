@@ -1,4 +1,6 @@
-realestate.com.mu
+OpenRealEstate
 =================
 
-A Symfony project created on April 14, 2017, 3:03 pm.
+An open-source platform for real estate listings and services.
+
+Created by Sirius WebTek on Symfony 3.
